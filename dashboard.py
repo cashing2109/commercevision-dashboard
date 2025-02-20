@@ -9,7 +9,7 @@ st.set_page_config(page_title="E-commerce Business Dashboard", page_icon="📊",
 
 # Display Creator Information
 st.markdown("""
-    <h1 style='text-align: center; color: #4CAF50;'>🛒 A tool to visualize and analyze business metrics.</h1>
+    <h1 style='text-align: center; color: #4CAF50;'>📊 A tool to visualize and analyze business metrics.</h1>
     <h3 style='text-align: center; color: #888;'>Made by MD H. Rahman</h3>
     <h4 style='text-align: center;'><a href='https://www.linkedin.com/in/habib-rahmann/' target='_blank'>LinkedIn Profile</a></h4>
 """, unsafe_allow_html=True)
