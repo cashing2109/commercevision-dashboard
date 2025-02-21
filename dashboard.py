@@ -22,7 +22,7 @@ def clean_text(text):
 business_name = st.text_input("Enter Your Business Name (Ex: ABC Retail)", "My Business")
 
 # Manually Enter Data
-st.subheader("📋 Enter Business Data Manually")
+st.subheader("📋 Enter Business Data ")
 
 col1, col2, col3 = st.columns(3)
 total_revenue = col1.number_input("Total Revenue ($)", min_value=0.0, format="%.2f")
